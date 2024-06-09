@@ -1,0 +1,11 @@
+C:\Users\SOYLU\source\repos\OyunProje\OyunProje\bin\Debug\OyunProje.exe.config
+C:\Users\SOYLU\source\repos\OyunProje\OyunProje\bin\Debug\OyunProje.exe
+C:\Users\SOYLU\source\repos\OyunProje\OyunProje\bin\Debug\OyunProje.pdb
+C:\Users\SOYLU\source\repos\OyunProje\OyunProje\obj\Debug\OyunProje.csproj.AssemblyReference.cache
+C:\Users\SOYLU\source\repos\OyunProje\OyunProje\obj\Debug\OyunProje.Form1.resources
+C:\Users\SOYLU\source\repos\OyunProje\OyunProje\obj\Debug\OyunProje.OyunAlanı.resources
+C:\Users\SOYLU\source\repos\OyunProje\OyunProje\obj\Debug\OyunProje.Properties.Resources.resources
+C:\Users\SOYLU\source\repos\OyunProje\OyunProje\obj\Debug\OyunProje.csproj.GenerateResource.cache
+C:\Users\SOYLU\source\repos\OyunProje\OyunProje\obj\Debug\OyunProje.csproj.CoreCompileInputs.cache
+C:\Users\SOYLU\source\repos\OyunProje\OyunProje\obj\Debug\OyunProje.exe
+C:\Users\SOYLU\source\repos\OyunProje\OyunProje\obj\Debug\OyunProje.pdb
